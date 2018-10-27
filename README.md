@@ -22,6 +22,15 @@ T4 | 强化学习简介 | 秦涛（微软亚洲研究院） | [下载](http://ww
 07 | 人机对话 | 张伟男 | [下载](http://www.cips-cl.org/static/CCL2018/downloads/ppt/07.pdf)
 08 | 阅读理解 | 崔一鸣 | [下载](http://www.cips-cl.org/static/CCL2018/downloads/ppt/08.pdf)
 
+### 学生研讨会 [主页](http://www.cips-cl.org/static/CCL2018/stu-discuss.html)
+序号 | 报告题目 | 报告人 | 幻灯片
+------------ | ------------- | ------------ | ------------
+01 | 文献综述与研究选题 | 刘知远 | [下载](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/liuzy.pdf)
+02 | 如何端到端地写科研论文 | 邱锡鹏 | [下载](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/qiuxp.pdf)
+03 | 如何应对科研中的困难和挫折 | 万小军 | [下载](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/wanxj.pdf)
+04 | 知识表示与抽取--研究中的困惑与坚持 | 林衍凯 | [下载](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/linyk.pdf)
+05 | 论文写作的易读性原则——基于Seq2Seq的对话数据增广 | 刘一佳 | [下载](http://www.cips-cl.org/static/CCL2018/downloads/stuPPT/liuyj.pdf)
+
 ## 第十三届中国中文信息学会暑期学校 SSATT 2018 [主页](http://www.cipsc.org.cn/ssatt2018)
 ### 深度学习与文本分析
 序号 | 报告题目 | 报告人 | 幻灯片
