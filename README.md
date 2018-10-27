@@ -2,6 +2,9 @@
 
 ## 第十七届中国计算语言学大会 CCL 2018 [主页](http://www.cips-cl.org/static/CCL2018/index.html)
 
+### 会议论文 [主页](http://www.cips-cl.org/static/CCL2018/paper-accepted.html)
+[中文论文](http://cips-cl.org/static/anthology/CCL-2018/CCL2018.html)[英文论文](http://cips-cl.org/static/anthology/CCL-2018/CCL2018.html)
+
 ### 前沿技术讲习班 [主页](http://www.cips-cl.org/static/CCL2018/tutorials.html)
 序号 | 报告题目 | 报告人 | 幻灯片
 ------------ | ------------- | ------------ | ------------
