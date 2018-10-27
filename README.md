@@ -3,12 +3,13 @@
 ## 第十七届中国计算语言学大会 CCL 2018 [主页](http://www.cips-cl.org/static/CCL2018/index.html)
 
 ### 会议论文 [主页](http://www.cips-cl.org/static/CCL2018/paper-accepted.html)
-[中文论文](http://cips-cl.org/static/anthology/CCL-2018/CCL2018.html)[英文论文](http://cips-cl.org/static/anthology/CCL-2018/CCL2018.html)
+[中文论文](http://cips-cl.org/static/anthology/CCL-2018/CCL2018.html)
+[英文论文](http://cips-cl.org/static/anthology/CCL-2018/CCL2018.html)
 
 ### 前沿技术讲习班 [主页](http://www.cips-cl.org/static/CCL2018/tutorials.html)
 序号 | 报告题目 | 报告人 | 幻灯片
 ------------ | ------------- | ------------ | ------------
-T1 | Cross-lingual Entity Discovery and Linking | 季姮（Rensselaer Polytechnic Institute） | 
+T1 | Cross-lingual Entity Discovery and Linking | 季姮（Rensselaer Polytechnic Institute） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T1.pdf)
 T2 | 个性化推荐系统的未来：基于知识的推荐与可解释推荐 | 谢幸（微软亚洲研究院）、王希廷（微软亚洲研究院） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T2.pdf)
 T3 | 机器学习理论——回顾与展望 | 王立威（北京大学） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T3.pdf)
 T4 | 强化学习简介 | 秦涛（微软亚洲研究院） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T4.pdf)
