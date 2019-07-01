@@ -1,4 +1,5 @@
 # 中文学术会议相关资源整理
+注：所有链接均来自原始会议网站。
 
 ## 第十七届中国计算语言学大会 CCL 2018 [主页](http://www.cips-cl.org/static/CCL2018/index.html)
 
