@@ -6,6 +6,7 @@
 序号 | 报告题目 | 报告人 | 幻灯片
 ------------ | ------------- | ------------ | ------------
 T1 | 面向自然语言处理的深度学习基础 | 邱锡鹏、颜航（复旦大学） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_面向自然语言处理的深度学习基础_邱锡鹏.pptx)
+T1-2 | FastNLP介绍 | 颜航（复旦大学） | [下载](https://bj.bcebos.com/v1/cips-upload/ssatt2019/CIPS_SSATT_2019_面向自然语言处理的深度学习基础_FastNLP_颜航.pptx)
 T2 | 开放域语义解析 | 韩先培、陈波（中国科学院软件研究所） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_开放域语义解析_韩先培_陈波.pdf)
 T3 | 图神经网络在自然语言处理中的应用 | 张岳（西湖大学） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_图神经网络在自然语言处理中的应用_张岳.pptx)
 
