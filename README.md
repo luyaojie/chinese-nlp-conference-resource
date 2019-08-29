@@ -1,6 +1,72 @@
 # 自然语言处理相关中文学术会议相关资源整理
 注：所有链接均来自原始会议网站。
 
+## 2019全国知识图谱与语义计算大会 CCKS 2019 [主页](http://www.ccks2019.cn)
+### 前沿技术讲习班 [主页](http://www.ccks2019.cn/?page_id=60)
+<table>
+  <tr>
+    <th>序号</th>
+    <th>报告题目</th>
+    <th>报告人</th>
+    <th>幻灯片</th>
+  </tr>
+  <tr>
+    <td rowspan="2">T1</td>
+    <td>Natural Language Interface to Data</td>
+    <td>Xifeng Yan（University of California at Santa Barbara）</td>
+    <td rowspan="6"><a href="https://pan.baidu.com/s/13Mg-WkiC0pGjRtZpTd_UeA">下载</a></td>
+  </tr>
+  <tr>
+    <td>From Data to Model Programming: Injecting Structured Priors for Knowledge Extraction</td>
+    <td>Xiang Ren（University of Southern California）</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>Deep Learning for Graphs: Models and Applications</td>
+    <td>Jiliang Tang（Michigan State University）</td>
+  </tr>
+  <tr>
+    <td>T3</td>
+    <td>Tutorial on Explainable Recommendation and Search</td>
+    <td>Yongfeng Zhang（University of California at Santa Barbara）</td>
+  </tr>
+  <tr>
+    <td rowspan="2">T4</td>
+    <td>知识指导的自然语言处理</td>
+    <td>林衍凯（腾讯微信）</td>
+  </tr>
+  <tr>
+    <td>阅读理解中的推理和符号机制</td>
+    <td>吕正东（深度好奇）</td>
+  </tr>
+</table>
+
+### 知识图谱相关顶级会议回顾及研究进展报告 
+<table>
+  <tr>
+    <th>序号</th>
+    <th>报告题目</th>
+    <th>报告人</th>
+    <th>幻灯片</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>知识图谱研究进展之自然语言处理视角</td>
+    <td>何世柱（中科院自动化所）</td>
+    <td rowspan="3"><a href="https://www.jianguoyun.com/p/DRzNfu0Q5J3cBxiDsOkB">下载</a></td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>数据库和知识管理视角下的知识图谱研究</td>
+    <td>郑卫国（复旦大学）</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>Emerging Techniques for Semantic Search: Obvious Advantages, but Challenges Too</td>
+    <td>王萌（东南大学）</td>
+  </tr>
+</table>
+
 ## 第十四届中国中文信息学会暑期学校 SSATT 2019 [主页](http://conference.cipsc.org.cn/ssatt2019)
 ### 问答与对话-理论与基础
 序号 | 报告题目 | 报告人 | 幻灯片
