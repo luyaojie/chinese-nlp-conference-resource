@@ -1,4 +1,88 @@
-# 中文学术会议相关资源整理
+# 自然语言处理相关中文学术会议相关资源整理
+注：所有链接均来自原始会议网站。
+
+## 2019全国知识图谱与语义计算大会 CCKS 2019 [主页](http://www.ccks2019.cn)
+### 前沿技术讲习班 [主页](http://www.ccks2019.cn/?page_id=60)
+<table>
+  <tr>
+    <th>序号</th>
+    <th>报告题目</th>
+    <th>报告人</th>
+    <th>幻灯片</th>
+  </tr>
+  <tr>
+    <td rowspan="2">T1</td>
+    <td>Natural Language Interface to Data</td>
+    <td>Xifeng Yan（University of California at Santa Barbara）</td>
+    <td rowspan="6"><a href="https://pan.baidu.com/s/13Mg-WkiC0pGjRtZpTd_UeA">下载</a></td>
+  </tr>
+  <tr>
+    <td>From Data to Model Programming: Injecting Structured Priors for Knowledge Extraction</td>
+    <td>Xiang Ren（University of Southern California）</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>Deep Learning for Graphs: Models and Applications</td>
+    <td>Jiliang Tang（Michigan State University）</td>
+  </tr>
+  <tr>
+    <td>T3</td>
+    <td>Tutorial on Explainable Recommendation and Search</td>
+    <td>Yongfeng Zhang（University of California at Santa Barbara）</td>
+  </tr>
+  <tr>
+    <td rowspan="2">T4</td>
+    <td>知识指导的自然语言处理</td>
+    <td>林衍凯（腾讯微信）</td>
+  </tr>
+  <tr>
+    <td>阅读理解中的推理和符号机制</td>
+    <td>吕正东（深度好奇）</td>
+  </tr>
+</table>
+
+### 知识图谱相关顶级会议回顾及研究进展报告 
+<table>
+  <tr>
+    <th>序号</th>
+    <th>报告题目</th>
+    <th>报告人</th>
+    <th>幻灯片</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>知识图谱研究进展之自然语言处理视角</td>
+    <td>何世柱（中科院自动化所）</td>
+    <td rowspan="3"><a href="https://www.jianguoyun.com/p/DRzNfu0Q5J3cBxiDsOkB">下载</a></td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>数据库和知识管理视角下的知识图谱研究</td>
+    <td>郑卫国（复旦大学）</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>Emerging Techniques for Semantic Search: Obvious Advantages, but Challenges Too</td>
+    <td>王萌（东南大学）</td>
+  </tr>
+</table>
+
+## 第十四届中国中文信息学会暑期学校 SSATT 2019 [主页](http://conference.cipsc.org.cn/ssatt2019)
+### 问答与对话-理论与基础
+序号 | 报告题目 | 报告人 | 幻灯片
+------------ | ------------- | ------------ | ------------
+T1 | 面向自然语言处理的深度学习基础 | 邱锡鹏、颜航（复旦大学） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_面向自然语言处理的深度学习基础_邱锡鹏.pptx)
+T1-2 | FastNLP介绍 | 颜航（复旦大学） | [下载](https://bj.bcebos.com/v1/cips-upload/ssatt2019/CIPS_SSATT_2019_面向自然语言处理的深度学习基础_FastNLP_颜航.pptx)
+T2 | 开放域语义解析 | 韩先培、陈波（中国科学院软件研究所） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_开放域语义解析_韩先培_陈波.pdf)
+T3 | 图神经网络在自然语言处理中的应用 | 张岳（西湖大学） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_图神经网络在自然语言处理中的应用_张岳.pptx)
+
+### 问答与对话-技术与系统
+序号 | 报告题目 | 报告人 | 幻灯片
+------------ | ------------- | ------------ | ------------
+T1 | 基于深度学习的机器阅读理解 | 崔一鸣（科大讯飞） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_基于深度学习的机器阅读理解_崔一鸣.pdf)
+T2 | 问答系统 | 唐都钰、段楠（微软亚洲研究院） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_问答系统_唐都钰_段楠.pdf)
+T3 | 任务型对话系统 | 车万翔、张伟男（哈尔滨工业大学） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_任务型对话系统_车万翔_张伟男.pdf)
+T4 | 人工智能在人机对话系统中的技术现状与挑战 | 严睿（北京大学） | [下载](https://cips-upload.bj.bcebos.com/ssatt2019/CIPS_SSATT_2019_人工智能在人机对话系统中的技术现状与挑战_严睿.pdf)
 
 ## 第十六届自然语言处理青年学者研讨会 YSSNLP 2019 [主页](http://hainanumeeting.net/YSSNLP2019/index.php)
 报告题目 | 报告人 | 幻灯片
@@ -36,7 +120,7 @@ Unified Collaborative Filtering over Graph Embeddings | 王鹏飞 ｜ [下载](h
 ### 前沿技术讲习班 [主页](http://www.cips-cl.org/static/CCL2018/tutorials.html)
 序号 | 报告题目 | 报告人 | 幻灯片
 ------------ | ------------- | ------------ | ------------
-T1 | Cross-lingual Entity Discovery and Linking | 季姮（Rensselaer Polytechnic Institute） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T1.pdf)
+T1 | Cross-lingual Entity Discovery and Linking | Heng Ji（Rensselaer Polytechnic Institute） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T1.pdf)
 T2 | 个性化推荐系统的未来：基于知识的推荐与可解释推荐 | 谢幸（微软亚洲研究院）、王希廷（微软亚洲研究院） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T2.pdf)
 T3 | 机器学习理论——回顾与展望 | 王立威（北京大学） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T3.pdf)
 T4 | 强化学习简介 | 秦涛（微软亚洲研究院） | [下载](http://www.cips-cl.org/static/CCL2018/downloads/tutorialsPPT/T4.pdf)
