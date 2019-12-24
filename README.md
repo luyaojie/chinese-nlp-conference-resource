@@ -1,5 +1,32 @@
 # 中文学术会议相关资源整理
 
+## 第十六届自然语言处理青年学者研讨会 YSSNLP 2019 [主页](http://hainanumeeting.net/YSSNLP2019/index.php)
+报告题目 | 报告人 | 幻灯片
+------------- | ------------ | ------------
+Knowledge-driven Semantic Understanding | 赵鑫 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/1.pdf)
+Knowledge-Guided Neural Machine Translation | 熊德意 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/2.pdf)
+Open Issues in Knowledge Graph Research | 邹磊 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/3.pdf)
+PaddleNLP工业级NLP开源工具与预训练模型集 | 马艳军 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/4.pdf)
+Question Answering Over Knowledge Graph | 邹磊 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/5.pdf)
+Recent Trends in Information Retrieval | 窦志成 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/6.pdf)
+Semantic representation in the human brain | 毕彦超 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/7.pdf)
+Seq2Act：基于端到XX端语义图生成的语义解析 | 陈波 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/8.pdf)
+Unified Collaborative Filtering over Graph Embeddings | 王鹏飞 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/9.pdf)
+不一样的风景-算法工业落地的一些思考 | 李鹏 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/10.pdf)
+词法、句法分析研究进展综述 | 邱锡鹏 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/11.pdf)
+大脑语言理解的编解码模型 | 王少楠 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/12.pdf)
+电商推荐过程中的多维度关系发现与应用 | 任昭春 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/13.pdf)
+机器翻译进展综述 | 冯洋 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/14.pdf)
+机器翻译在办公场景下的应用 | 李长亮 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/15.pdf)
+聊天机器人困境和破局 | 邵浩 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/16.pdf)
+人机对话研究热点及前沿技术概述 | 张伟男 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/17.pdf)
+上下文感知的互联网搜索行为分析 | 毛佳昕 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/18.pdf)
+数据标注、转化与领域移植评测 | 李正华 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/19.pdf)
+文本生成中的通用技术及应用 | 冯骁骋 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/20.pdf)
+知识与自然语言处理 | 吴华 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/21.pdf)
+智能生活助理中的NLP技术挑战 | 蔡勋梁 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/22.pdf)
+自然语言处理技术在法律领域的应用实践 | 涂存超 ｜ [下载](http://hainanumeeting.net/YSSNLP2019/file/23.pdf)
+
 ## 第十七届中国计算语言学大会 CCL 2018 [主页](http://www.cips-cl.org/static/CCL2018/index.html)
 
 ### 会议论文 [主页](http://www.cips-cl.org/static/CCL2018/paper-accepted.html)
